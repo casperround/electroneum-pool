@@ -60,6 +60,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 #### Pools Using This Software
 
+* http://www.etnminepool.com/
 * https://asiapool.electroneum.com
 * https://eupool.electroneum.com
 * https://uspool.electroneum.com
